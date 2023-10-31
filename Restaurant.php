@@ -56,7 +56,7 @@ if (isset($_POST["search"])) {
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
               <li class="nav-item my-1">
-                <a class="nav-link" aria-current="page" href="Kuliner.php">Home</a>
+                <a class="nav-link" aria-current="page" href="index.php">Home</a>
               </li>
               <li class="nav-item dropdown my-1">
                 <a class="nav-link dropdown-toggle" aria-current="page" href="#" data-bs-toggle="dropdown" aria-expanded="false">Category</a>
@@ -89,7 +89,7 @@ if (isset($_POST["search"])) {
                 </ul>
               </li>
               <li class="nav-item my-1">
-                <a class="nav-link" href="Kuliner.php#about">About</a>
+                <a class="nav-link" href="index.php#about">About</a>
               </li>
             </ul>
             <form class="d-flex ms-auto my-2" action="" method="post">
