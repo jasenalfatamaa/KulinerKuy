@@ -25,7 +25,7 @@ session_start();
 
     <link rel="stylesheet" href="styles.css">
 
-    <title>Home</title>
+    <title>KulinerKuy</title>
   </head>
   <body>
 
