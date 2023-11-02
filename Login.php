@@ -42,7 +42,7 @@ if (isset($_POST["login"])) {
         setcookie('key2', hash('sha256', $isidata['email']));
       
     
-      header("Location: Kuliner.php");
+      header("Location: index.php");
       
       $tampil = true;
       exit;
